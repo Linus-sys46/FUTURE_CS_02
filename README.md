@@ -18,6 +18,7 @@ This repository contains a practical analysis of phishing emails, highlighting h
 ## Tools Used
 
 - **MXToolbox** – Email header analysis & relay tracing  
+- **Google Toolbox Message Header**
 - **SPF / DKIM / DMARC Validation Tools** – Authentication verification  
 - **VirusTotal** – URL and link scanning  
 - **PhishTank** – Phishing URL verification  
