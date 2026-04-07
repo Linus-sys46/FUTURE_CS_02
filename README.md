@@ -9,7 +9,7 @@ This repository contains a practical analysis of phishing emails, highlighting h
 - **Phishing Detection Report** (`.pdf`)  
   Detailed report including email samples, risk classification, and prevention guidelines.  
 
-- **Sample Email Headers and Analysis** (`.eml`)  
+- **Sample Email Headers and Analysis** (`.txt`)  
   Email header evidence and analysis for each.  
 
 
